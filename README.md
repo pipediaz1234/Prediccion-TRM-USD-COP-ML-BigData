@@ -1,4 +1,4 @@
-# 💹 Dashboard Inteligente TRM USD/COP
+#  Dashboard Inteligente TRM USD/COP
 
 **Análisis y Predicción del Tipo de Cambio (USD/COP)** utilizando datos históricos del **Banco de la República de Colombia**, aplicando técnicas de *Machine Learning*, análisis estadístico y visualización avanzada.
 
